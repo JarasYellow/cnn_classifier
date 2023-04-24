@@ -1,0 +1,5 @@
+Model repository: https://github.com/Data-Science-kosta/Speech-Emotion-Classification-with-PyTorch
+
+Ravdess dataset was taken from https://www.kaggle.com/code/dmitrybabko/speech-emotion-recognition-conv1d/notebook
+
+
